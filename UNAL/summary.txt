@@ -1,0 +1,73 @@
+Baseline CNN :
+
+Best Validation MAE       : 2184.1464 µm
+Test MAE                  : 2135.488722 µm
+Test RMSE                 : 2345.126606 µm
+Test R²                   : -4.854977
+Test Median Absolute Error: 2295.000000 µm
+Test Bias                 : -2135.488722 µm
+
+Mean inference time/image : 0.009442 s
+Total inference time      : 2.51 s
+
+Saved predictions to      : test_predictions_baseline_cnn_unal.csv
+======================================================================
+
+CNN-Swin :
+
+Best Validation MAE       : 750.9362 µm
+Test MAE                  : 808.074189 µm
+Test RMSE                 : 1039.937560 µm
+Test R²                   : -0.151349
+Test Median Absolute Error: 587.842886 µm
+Test Bias                 : 628.152932 µm
+
+Mean inference time/image : 0.305282 s
+Total inference time      : 81.20 s
+
+Saved predictions to      : test_predictions_swin_cnn_hybrid_unal.csv
+======================================================================
+
+FFT CNN :
+
+Best Validation MAE       : 660.3120 µm
+Test MAE:                 : 607.616939 µm
+Test RMSE:                : 766.238368 µm
+Test R²:                  : 0.374942
+Test Median AE:           : 479.136022 µm
+Test Bias:                : 146.678804 µm
+Mean inference time:      : 0.043483 s/image
+Median inference time:    : 0.033184 s/image
+
+Prediction file:          test_predictions_fft_unal_final.csv
+===========================================================================
+
+Multi-Scale Transformer :
+
+Best Validation MAE       : 56.5239 µm
+Test MAE                  : 66.748420 µm
+Test RMSE                 : 91.626461 µm
+Test R²                   : 0.991062
+Test Median Absolute Error: 53.891602 µm
+Test Bias                 : 13.972741 µm
+
+Mean inference time/image : 0.013989 s
+Total inference time      : 3.72 s
+
+Saved predictions to      : test_predictions_multiscale_transformer_unal.csv
+============================================================================
+
+Physics CNN-Swin :
+
+Best Validation MAE       : 664.1029 µm
+Test MAE                  : 671.1644 µm
+Test RMSE                 : 871.5133 µm
+Test R²                   : 0.191387
+Test Median AE            : 473.4530 µm
+Test Bias                 : 373.6305 µm
+Mean inference time       : 0.235727 s/image
+Total inference time      : 62.703 s
+Mean inference speed      : 4.24 images/s
+
+Predictions saved to: test_predictions_physics_cnn_swin_unal.csv
+============================================================
