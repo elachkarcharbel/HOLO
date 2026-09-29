@@ -1,0 +1,167 @@
+
+Epoch 1
+train_fft_8patch_256_unal.py:205: UserWarning: Specified kernel cache directory could not be created! This disables kernel caching. Specified directory is /Home/Users/celachkar/.cache/torch/kernels. This warning will appear only once per process. (Triggered internally at ../aten/src/ATen/native/cuda/jit_utils.cpp:1442.)
+  mag = torch.log1p(torch.abs(fft))
+Train Loss: 0.321845 | Val MAE (µm): 956.8678
+✓ Best model saved
+
+Epoch 2
+Train Loss: 0.262368 | Val MAE (µm): 900.6514
+✓ Best model saved
+
+Epoch 3
+Train Loss: 0.239387 | Val MAE (µm): 775.9396
+✓ Best model saved
+
+Epoch 4
+Train Loss: 0.227244 | Val MAE (µm): 660.3120
+✓ Best model saved
+
+Epoch 5
+Train Loss: 0.206815 | Val MAE (µm): 1126.1649
+
+Epoch 6
+Train Loss: 0.185567 | Val MAE (µm): 1027.3608
+
+Epoch 7
+Train Loss: 0.181038 | Val MAE (µm): 809.5176
+
+Epoch 8
+Train Loss: 0.177325 | Val MAE (µm): 787.1728
+Epoch 00008: reducing learning rate of group 0 to 1.5000e-04.
+
+Epoch 9
+Train Loss: 0.162549 | Val MAE (µm): 962.1029
+
+Epoch 10
+Train Loss: 0.151204 | Val MAE (µm): 834.2316
+
+Epoch 11
+Train Loss: 0.148492 | Val MAE (µm): 675.8261
+
+Epoch 12
+Train Loss: 0.150992 | Val MAE (µm): 832.1446
+Epoch 00012: reducing learning rate of group 0 to 7.5000e-05.
+
+Epoch 13
+Train Loss: 0.143794 | Val MAE (µm): 851.8875
+
+Epoch 14
+Train Loss: 0.141076 | Val MAE (µm): 865.5570
+
+Epoch 15
+Train Loss: 0.136049 | Val MAE (µm): 839.5532
+
+Epoch 16
+Train Loss: 0.143093 | Val MAE (µm): 746.7537
+Epoch 00016: reducing learning rate of group 0 to 3.7500e-05.
+
+Epoch 17
+Train Loss: 0.134474 | Val MAE (µm): 798.5311
+
+Epoch 18
+Train Loss: 0.137139 | Val MAE (µm): 834.8490
+
+Epoch 19
+Train Loss: 0.123582 | Val MAE (µm): 764.0497
+
+Epoch 20
+Train Loss: 0.124140 | Val MAE (µm): 777.7621
+Epoch 00020: reducing learning rate of group 0 to 1.8750e-05.
+
+Epoch 21
+Train Loss: 0.126778 | Val MAE (µm): 783.6438
+
+Epoch 22
+Train Loss: 0.124988 | Val MAE (µm): 827.9664
+
+Epoch 23
+Train Loss: 0.120366 | Val MAE (µm): 811.8151
+
+Epoch 24
+Train Loss: 0.123582 | Val MAE (µm): 821.9771
+Epoch 00024: reducing learning rate of group 0 to 9.3750e-06.
+
+Epoch 25
+Train Loss: 0.117467 | Val MAE (µm): 806.8191
+
+Epoch 26
+Train Loss: 0.115902 | Val MAE (µm): 787.3587
+
+Epoch 27
+Train Loss: 0.114273 | Val MAE (µm): 797.3213
+
+Epoch 28
+Train Loss: 0.117572 | Val MAE (µm): 753.6697
+Epoch 00028: reducing learning rate of group 0 to 4.6875e-06.
+
+Epoch 29
+Train Loss: 0.123374 | Val MAE (µm): 831.8484
+
+Epoch 30
+Train Loss: 0.119292 | Val MAE (µm): 831.9467
+
+Epoch 31
+Train Loss: 0.122538 | Val MAE (µm): 828.0076
+
+Epoch 32
+Train Loss: 0.114721 | Val MAE (µm): 779.5546
+Epoch 00032: reducing learning rate of group 0 to 2.3437e-06.
+
+Epoch 33
+Train Loss: 0.114756 | Val MAE (µm): 771.5910
+
+Epoch 34
+Train Loss: 0.124168 | Val MAE (µm): 822.6051
+
+Epoch 35
+Train Loss: 0.114534 | Val MAE (µm): 791.1784
+
+Epoch 36
+Train Loss: 0.114626 | Val MAE (µm): 788.6350
+Epoch 00036: reducing learning rate of group 0 to 1.1719e-06.
+
+Epoch 37
+Train Loss: 0.120056 | Val MAE (µm): 810.4142
+
+Epoch 38
+Train Loss: 0.113765 | Val MAE (µm): 772.1774
+
+Epoch 39
+Train Loss: 0.115191 | Val MAE (µm): 780.6860
+
+Epoch 40
+Train Loss: 0.123033 | Val MAE (µm): 838.4691
+Epoch 00040: reducing learning rate of group 0 to 5.8594e-07.
+
+Epoch 41
+Train Loss: 0.116342 | Val MAE (µm): 798.7738
+
+Epoch 42
+Train Loss: 0.115519 | Val MAE (µm): 796.8315
+
+Epoch 43
+Train Loss: 0.112893 | Val MAE (µm): 827.7206
+
+Epoch 44
+Train Loss: 0.117014 | Val MAE (µm): 785.3069
+Epoch 00044: reducing learning rate of group 0 to 2.9297e-07.
+
+Epoch 45
+Train Loss: 0.113894 | Val MAE (µm): 781.9829
+
+Epoch 46
+Train Loss: 0.112213 | Val MAE (µm): 783.2702
+
+Epoch 47
+Train Loss: 0.112661 | Val MAE (µm): 777.8494
+
+Epoch 48
+Train Loss: 0.121706 | Val MAE (µm): 811.7420
+Epoch 00048: reducing learning rate of group 0 to 1.4648e-07.
+
+Epoch 49
+Train Loss: 0.121731 | Val MAE (µm): 834.3897
+
+Epoch 50
+Train Loss: 0.117674 | Val MAE (µm): 817.9576
