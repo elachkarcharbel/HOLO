@@ -1,0 +1,50 @@
+
+Epoch 1
+/Home/Users/celachkar/.conda/envs/conda-env2/lib/python3.8/site-packages/torch/nn/modules/loss.py:928: UserWarning: Using a target size (torch.Size([1])) that is different to the input size (torch.Size([])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return F.smooth_l1_loss(input, target, reduction=self.reduction, beta=self.beta)
+Train Loss: 0.118596 | Val MAE (µm): 12.0124
+✓ Best model saved
+
+Epoch 2
+Train Loss: 0.036974 | Val MAE (µm): 11.5008
+✓ Best model saved
+
+Epoch 3
+Train Loss: 0.025707 | Val MAE (µm): 9.9050
+✓ Best model saved
+
+Epoch 4
+Train Loss: 0.021151 | Val MAE (µm): 12.4392
+
+Epoch 5
+Train Loss: 0.017347 | Val MAE (µm): 10.7223
+
+Epoch 6
+Train Loss: 0.015776 | Val MAE (µm): 13.8679
+
+Epoch 7
+Train Loss: 0.015010 | Val MAE (µm): 15.9689
+
+Epoch 8
+Train Loss: 0.011651 | Val MAE (µm): 12.8531
+
+Epoch 9
+Train Loss: 0.011330 | Val MAE (µm): 12.8030
+
+Epoch 10
+Train Loss: 0.011220 | Val MAE (µm): 14.3073
+
+Epoch 11
+Train Loss: 0.010844 | Val MAE (µm): 10.3803
+
+Epoch 12
+Train Loss: 0.009766 | Val MAE (µm): 12.2914
+
+Epoch 13
+Train Loss: 0.009508 | Val MAE (µm): 12.7082
+
+Epoch 14
+Train Loss: 0.009478 | Val MAE (µm): 14.5191
+
+Epoch 15
+slurmstepd: error: *** JOB 268815 ON node4-25 CANCELLED AT 2026-09-25T10:49:12 ***
