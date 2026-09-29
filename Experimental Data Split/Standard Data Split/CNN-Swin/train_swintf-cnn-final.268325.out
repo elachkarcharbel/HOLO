@@ -1,0 +1,93 @@
+
+Epoch 1
+Train Loss: 0.113471 | Val MAE (µm): 7.1133
+✓ Best model saved
+
+Epoch 2
+Train Loss: 0.037775 | Val MAE (µm): 6.1326
+✓ Best model saved
+
+Epoch 3
+Train Loss: 0.022452 | Val MAE (µm): 6.4551
+
+Epoch 4
+Train Loss: 0.015735 | Val MAE (µm): 3.6490
+✓ Best model saved
+
+Epoch 5
+Train Loss: 0.012905 | Val MAE (µm): 5.8240
+
+Epoch 6
+Train Loss: 0.009800 | Val MAE (µm): 4.7556
+
+Epoch 7
+Train Loss: 0.009190 | Val MAE (µm): 2.7612
+✓ Best model saved
+
+Epoch 8
+Train Loss: 0.007458 | Val MAE (µm): 3.0307
+
+Epoch 9
+Train Loss: 0.007206 | Val MAE (µm): 2.8684
+
+Epoch 10
+Train Loss: 0.006427 | Val MAE (µm): 2.5534
+✓ Best model saved
+
+Epoch 11
+Train Loss: 0.006014 | Val MAE (µm): 3.0405
+
+Epoch 12
+Train Loss: 0.006492 | Val MAE (µm): 2.3535
+✓ Best model saved
+
+Epoch 13
+Train Loss: 0.005069 | Val MAE (µm): 4.0065
+
+Epoch 14
+Train Loss: 0.005058 | Val MAE (µm): 2.5009
+
+Epoch 15
+Train Loss: 0.005014 | Val MAE (µm): 2.9041
+
+Epoch 16
+Train Loss: 0.004703 | Val MAE (µm): 3.1676
+
+Epoch 17
+Train Loss: 0.003855 | Val MAE (µm): 3.0088
+
+Epoch 18
+Train Loss: 0.003865 | Val MAE (µm): 2.7503
+
+Epoch 19
+Train Loss: 0.003660 | Val MAE (µm): 2.6305
+
+Epoch 20
+Train Loss: 0.003584 | Val MAE (µm): 2.9909
+
+Epoch 21
+Train Loss: 0.003284 | Val MAE (µm): 2.9613
+
+Epoch 22
+Train Loss: 0.003269 | Val MAE (µm): 2.6783
+
+Epoch 23
+Train Loss: 0.003122 | Val MAE (µm): 2.7719
+
+Epoch 24
+Train Loss: 0.003180 | Val MAE (µm): 2.9153
+
+Epoch 25
+Train Loss: 0.002951 | Val MAE (µm): 2.9874
+
+Epoch 26
+Train Loss: 0.002898 | Val MAE (µm): 2.7888
+
+Epoch 27
+Train Loss: 0.002937 | Val MAE (µm): 2.9041
+
+Epoch 28
+Train Loss: 0.002828 | Val MAE (µm): 2.9494
+
+Epoch 29
+slurmstepd: error: *** JOB 268325 ON node4-25 CANCELLED AT 2026-09-15T09:11:58 ***
