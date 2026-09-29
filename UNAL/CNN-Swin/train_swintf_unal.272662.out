@@ -1,0 +1,304 @@
+
+Epoch 1
+/Home/Users/celachkar/.conda/envs/conda-env2/lib/python3.8/site-packages/torch/nn/modules/loss.py:928: UserWarning: Using a target size (torch.Size([1])) that is different to the input size (torch.Size([])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return F.smooth_l1_loss(input, target, reduction=self.reduction, beta=self.beta)
+Train Loss: 0.310190 | Val MAE (µm): 954.5353
+✓ Best model saved
+
+Epoch 2
+Train Loss: 0.209464 | Val MAE (µm): 750.9362
+✓ Best model saved
+
+Epoch 3
+Train Loss: 0.174639 | Val MAE (µm): 1670.1998
+
+Epoch 4
+Train Loss: 0.159090 | Val MAE (µm): 2926.3315
+
+Epoch 5
+Train Loss: 0.143925 | Val MAE (µm): 1015.4372
+
+Epoch 6
+Train Loss: 0.138269 | Val MAE (µm): 765.3988
+
+Epoch 7
+Train Loss: 0.126841 | Val MAE (µm): 869.3615
+
+Epoch 8
+Train Loss: 0.129866 | Val MAE (µm): 898.6812
+
+Epoch 9
+Train Loss: 0.121684 | Val MAE (µm): 2042.6368
+
+Epoch 10
+Train Loss: 0.124771 | Val MAE (µm): 903.7847
+
+Epoch 11
+Train Loss: 0.112921 | Val MAE (µm): 1372.1581
+
+Epoch 12
+Train Loss: 0.118445 | Val MAE (µm): 1411.2891
+
+Epoch 13
+Train Loss: 0.121343 | Val MAE (µm): 1232.6910
+
+Epoch 14
+Train Loss: 0.111563 | Val MAE (µm): 1080.5159
+
+Epoch 15
+Train Loss: 0.103125 | Val MAE (µm): 1324.6095
+
+Epoch 16
+Train Loss: 0.107601 | Val MAE (µm): 1342.5851
+
+Epoch 17
+Train Loss: 0.106638 | Val MAE (µm): 1157.8495
+
+Epoch 18
+Train Loss: 0.102361 | Val MAE (µm): 1487.2166
+
+Epoch 19
+Train Loss: 0.093175 | Val MAE (µm): 1280.2382
+
+Epoch 20
+Train Loss: 0.102230 | Val MAE (µm): 1281.3929
+
+Epoch 21
+Train Loss: 0.100191 | Val MAE (µm): 1226.1334
+
+Epoch 22
+Train Loss: 0.099243 | Val MAE (µm): 1179.0775
+
+Epoch 23
+Train Loss: 0.102858 | Val MAE (µm): 1334.4256
+
+Epoch 24
+Train Loss: 0.096863 | Val MAE (µm): 1286.7168
+
+Epoch 25
+Train Loss: 0.099334 | Val MAE (µm): 1255.4074
+
+Epoch 26
+Train Loss: 0.101750 | Val MAE (µm): 1270.9974
+
+Epoch 27
+Train Loss: 0.095162 | Val MAE (µm): 1178.4869
+
+Epoch 28
+Train Loss: 0.098460 | Val MAE (µm): 1375.6773
+
+Epoch 29
+Train Loss: 0.098359 | Val MAE (µm): 1375.6072
+
+Epoch 30
+Train Loss: 0.098115 | Val MAE (µm): 1200.5805
+
+Epoch 31
+Train Loss: 0.105635 | Val MAE (µm): 1341.8434
+
+Epoch 32
+Train Loss: 0.102987 | Val MAE (µm): 1241.7868
+
+Epoch 33
+Train Loss: 0.095777 | Val MAE (µm): 1260.2627
+
+Epoch 34
+Train Loss: 0.098643 | Val MAE (µm): 1264.7538
+
+Epoch 35
+Train Loss: 0.096556 | Val MAE (µm): 1218.2806
+
+Epoch 36
+Train Loss: 0.096355 | Val MAE (µm): 1260.5346
+
+Epoch 37
+Train Loss: 0.098843 | Val MAE (µm): 1185.8376
+
+Epoch 38
+Train Loss: 0.098926 | Val MAE (µm): 1202.7558
+
+Epoch 39
+Train Loss: 0.094599 | Val MAE (µm): 1226.1107
+
+Epoch 40
+Train Loss: 0.096809 | Val MAE (µm): 1218.0935
+
+Epoch 41
+Train Loss: 0.098182 | Val MAE (µm): 1289.5727
+
+Epoch 42
+Train Loss: 0.098346 | Val MAE (µm): 1178.3340
+
+Epoch 43
+Train Loss: 0.101507 | Val MAE (µm): 1244.9349
+
+Epoch 44
+Train Loss: 0.099464 | Val MAE (µm): 1283.6594
+
+Epoch 45
+Train Loss: 0.093645 | Val MAE (µm): 1186.6273
+
+Epoch 46
+Train Loss: 0.098322 | Val MAE (µm): 1178.0029
+
+Epoch 47
+Train Loss: 0.090631 | Val MAE (µm): 1343.9897
+
+Epoch 48
+Train Loss: 0.098458 | Val MAE (µm): 1375.0710
+
+Epoch 49
+Train Loss: 0.095291 | Val MAE (µm): 1287.6956
+
+Epoch 50
+Train Loss: 0.101714 | Val MAE (µm): 1311.4320
+
+Epoch 51
+Train Loss: 0.100156 | Val MAE (µm): 1349.9313
+
+Epoch 52
+Train Loss: 0.101960 | Val MAE (µm): 1285.2373
+
+Epoch 53
+Train Loss: 0.094936 | Val MAE (µm): 1310.4494
+
+Epoch 54
+Train Loss: 0.092086 | Val MAE (µm): 1248.2620
+
+Epoch 55
+Train Loss: 0.099375 | Val MAE (µm): 1388.6992
+
+Epoch 56
+Train Loss: 0.097463 | Val MAE (µm): 1326.5310
+
+Epoch 57
+Train Loss: 0.093708 | Val MAE (µm): 1318.0468
+
+Epoch 58
+Train Loss: 0.098469 | Val MAE (µm): 1350.5720
+
+Epoch 59
+Train Loss: 0.100107 | Val MAE (µm): 1393.2437
+
+Epoch 60
+Train Loss: 0.099983 | Val MAE (µm): 1410.5788
+
+Epoch 61
+Train Loss: 0.098216 | Val MAE (µm): 1286.7206
+
+Epoch 62
+Train Loss: 0.095948 | Val MAE (µm): 1224.1368
+
+Epoch 63
+Train Loss: 0.092222 | Val MAE (µm): 1184.5570
+
+Epoch 64
+Train Loss: 0.096343 | Val MAE (µm): 1212.2713
+
+Epoch 65
+Train Loss: 0.093781 | Val MAE (µm): 1437.9546
+
+Epoch 66
+Train Loss: 0.097956 | Val MAE (µm): 1279.8303
+
+Epoch 67
+Train Loss: 0.094371 | Val MAE (µm): 1336.8559
+
+Epoch 68
+Train Loss: 0.103721 | Val MAE (µm): 1378.9566
+
+Epoch 69
+Train Loss: 0.097726 | Val MAE (µm): 1361.9152
+
+Epoch 70
+Train Loss: 0.105054 | Val MAE (µm): 1279.6343
+
+Epoch 71
+Train Loss: 0.098009 | Val MAE (µm): 1378.4665
+
+Epoch 72
+Train Loss: 0.097165 | Val MAE (µm): 1257.7558
+
+Epoch 73
+Train Loss: 0.094354 | Val MAE (µm): 1239.7956
+
+Epoch 74
+Train Loss: 0.104218 | Val MAE (µm): 1397.6332
+
+Epoch 75
+Train Loss: 0.099023 | Val MAE (µm): 1220.3503
+
+Epoch 76
+Train Loss: 0.100919 | Val MAE (µm): 1416.1005
+
+Epoch 77
+Train Loss: 0.098388 | Val MAE (µm): 1260.3889
+
+Epoch 78
+Train Loss: 0.099041 | Val MAE (µm): 1446.2012
+
+Epoch 79
+Train Loss: 0.100318 | Val MAE (µm): 1304.6221
+
+Epoch 80
+Train Loss: 0.100774 | Val MAE (µm): 1295.1960
+
+Epoch 81
+Train Loss: 0.097119 | Val MAE (µm): 1310.2581
+
+Epoch 82
+Train Loss: 0.099409 | Val MAE (µm): 1202.5562
+
+Epoch 83
+Train Loss: 0.098089 | Val MAE (µm): 1193.2469
+
+Epoch 84
+Train Loss: 0.095815 | Val MAE (µm): 1181.9239
+
+Epoch 85
+Train Loss: 0.100722 | Val MAE (µm): 1199.3746
+
+Epoch 86
+Train Loss: 0.098930 | Val MAE (µm): 1307.4019
+
+Epoch 87
+Train Loss: 0.100564 | Val MAE (µm): 1239.9833
+
+Epoch 88
+Train Loss: 0.101416 | Val MAE (µm): 1273.8618
+
+Epoch 89
+Train Loss: 0.095826 | Val MAE (µm): 1252.3432
+
+Epoch 90
+Train Loss: 0.095713 | Val MAE (µm): 1293.0566
+
+Epoch 91
+Train Loss: 0.105481 | Val MAE (µm): 1315.2703
+
+Epoch 92
+Train Loss: 0.094573 | Val MAE (µm): 1265.3185
+
+Epoch 93
+Train Loss: 0.098033 | Val MAE (µm): 1265.3404
+
+Epoch 94
+Train Loss: 0.096433 | Val MAE (µm): 1313.2136
+
+Epoch 95
+Train Loss: 0.099740 | Val MAE (µm): 1367.4887
+
+Epoch 96
+Train Loss: 0.102977 | Val MAE (µm): 1249.2276
+
+Epoch 97
+Train Loss: 0.097796 | Val MAE (µm): 1349.1489
+
+Epoch 98
+Train Loss: 0.099252 | Val MAE (µm): 1276.2505
+
+Epoch 99
+Train Loss: 0.095934 | Val MAE (µm): 1304.2369
+
+Epoch 100
+Train Loss: 0.090300 | Val MAE (µm): 1259.5495
