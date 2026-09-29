@@ -1,47 +1,51 @@
-Experimental dataset details:
+# Experimental Dataset Details
 
-Total number of images : 76305 images
-Z ranges : 0.000429 µm -> 96.464237 µm
+## Experimental Dataset
 
-Standard data split:
+**Total number of images:** 76,305
+**Z-depth range:** 0.000429–96.464237 µm
 
-Train : 65000 images (~85%)
-        - min (Z depth): 0.000429  µm
-        - max (Z depth): 96.464237 µm
-Test  : 5653  images
-        - min (Z depth): 0.00426   µm
-        - max (Z depth): 65.32553  µm
-Val   : 5652  images
-        - min (Z depth): 0.00095   µm
-        - max (Z depth): 65.23626  µm
+### Standard Data Split
 
-Special data split:
+| Split     | Number of Images | Proportion | Min. Z Depth (µm) | Max. Z Depth (µm) |
+| :-------- | ---------------: | ---------: | ----------------: | ----------------: |
+| Train     |           65,000 |     ~85.0% |          0.000429 |         96.464237 |
+| Test      |            5,653 |      ~7.4% |          0.004260 |         65.325530 |
+| Val       |            5,652 |      ~7.4% |          0.000950 |         65.236260 |
+| **Total** |       **76,305** |   **100%** |                 — |                 — |
 
-Train : 70463 images
-        - min (Z depth): 0.000430  µm
-        - max (Z depth): 64.999782 µm
-Test  : 2921  images
-        - min (Z depth): 65.011137 µm
-        - max (Z depth): 96.464237 µm
-Val   : 2921  images
-        - min (Z depth): 65.010801 µm
-        - max (Z depth): 96.458196 µm
+### Special Data Split
 
+| Split     | Number of Images | Min. Z Depth (µm) | Max. Z Depth (µm) |
+| :-------- | ---------------: | ----------------: | ----------------: |
+| Train     |           70,463 |          0.000430 |         64.999782 |
+| Test      |            2,921 |         65.011137 |         96.464237 |
+| Val       |            2,921 |         65.010801 |         96.458196 |
+| **Total** |       **76,305** |                 — |                 — |
 
-UNAL Dataset details ( Only standard split):
+> **Note:** The special split separates the data based on Z depth, with the training set covering depths up to approximately **65 µm**, while the validation and test sets cover depths above **65 µm**.
 
-Total number of images: 3540 images
-Z ranges : 330 µm -> 4050 µm
+---
 
-Standard data split:
+## UNAL Dataset
 
-Train : 3009 images (85%)
-Val  : 265  images (7.5%)
-Test  : 266  images (7.5%)
+> **Note:** Only the standard data split is used for the UNAL dataset.
 
-- min (Z depth) for all splits : 330  µm
-- max (Z depth) for all splits : 4050 µm
+**Total number of images:** 3,540
+**Z-depth range:** 330–4,050 µm
 
+### Standard Data Split
 
+| Split     | Number of Images | Proportion |
+| :-------- | ---------------: | ---------: |
+| Train     |            3,009 |      85.0% |
+| Val       |              265 |       7.5% |
+| Test      |              266 |       7.5% |
+| **Total** |        **3,540** |   **100%** |
 
+### Z-Depth Range
 
+The Z-depth range is the same across all splits:
+
+* **Minimum Z depth:** 330 µm
+* **Maximum Z depth:** 4,050 µm
