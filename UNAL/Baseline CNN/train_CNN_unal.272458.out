@@ -1,0 +1,274 @@
+Loading dataset...
+Starting training...
+
+Epoch 1
+Train Loss: 2342.044881
+Val MAE (µm): 2283.7803
+✓ Best model saved
+
+Epoch 2
+Train Loss: 2340.286438
+Val MAE (µm): 2281.2201
+✓ Best model saved
+
+Epoch 3
+Train Loss: 2342.079549
+Val MAE (µm): 2278.4116
+✓ Best model saved
+
+Epoch 4
+Train Loss: 2332.727814
+Val MAE (µm): 2275.6549
+✓ Best model saved
+
+Epoch 5
+Train Loss: 2328.140330
+Val MAE (µm): 2270.3417
+✓ Best model saved
+
+Epoch 6
+Train Loss: 2326.013194
+Val MAE (µm): 2263.4171
+✓ Best model saved
+
+Epoch 7
+Train Loss: 2316.519318
+Val MAE (µm): 2254.6908
+✓ Best model saved
+
+Epoch 8
+Train Loss: 2305.296987
+Val MAE (µm): 2243.5172
+✓ Best model saved
+
+Epoch 9
+Train Loss: 2295.908936
+Val MAE (µm): 2228.7307
+✓ Best model saved
+
+Epoch 10
+Train Loss: 2280.411611
+Val MAE (µm): 2216.5330
+✓ Best model saved
+
+Epoch 11
+Train Loss: 2269.472544
+Val MAE (µm): 2197.9479
+✓ Best model saved
+
+Epoch 12
+Train Loss: 2251.176931
+Val MAE (µm): 2184.1464
+✓ Best model saved
+
+Epoch 13
+Train Loss: 2248.912893
+Val MAE (µm): 2184.1464
+
+Epoch 14
+Train Loss: 2241.648865
+Val MAE (µm): 2184.1464
+
+Epoch 15
+Train Loss: 2241.528951
+Val MAE (µm): 2184.4974
+
+Epoch 16
+Train Loss: 2237.783966
+Val MAE (µm): 2184.1464
+
+Epoch 17
+Train Loss: 2239.040985
+Val MAE (µm): 2184.1464
+
+Epoch 18
+Train Loss: 2240.031026
+Val MAE (µm): 2184.1464
+Epoch 00018: reducing learning rate of group 0 to 2.5000e-04.
+
+Epoch 19
+Train Loss: 2239.944000
+Val MAE (µm): 2184.1464
+
+Epoch 20
+Train Loss: 2238.616455
+Val MAE (µm): 2184.1464
+
+Epoch 21
+Train Loss: 2243.272369
+Val MAE (µm): 2184.1464
+
+Epoch 22
+Train Loss: 2242.530528
+Val MAE (µm): 2184.1464
+
+Epoch 23
+Train Loss: 2240.354462
+Val MAE (µm): 2184.1464
+
+Epoch 24
+Train Loss: 2240.939168
+Val MAE (µm): 2184.1464
+Epoch 00024: reducing learning rate of group 0 to 1.2500e-04.
+
+Epoch 25
+Train Loss: 2242.240112
+Val MAE (µm): 2184.1464
+
+Epoch 26
+Train Loss: 2240.349792
+Val MAE (µm): 2184.1464
+
+Epoch 27
+Train Loss: 2241.514119
+Val MAE (µm): 2184.1464
+
+Epoch 28
+Train Loss: 2237.967885
+Val MAE (µm): 2184.1464
+
+Epoch 29
+Train Loss: 2236.098053
+Val MAE (µm): 2184.1464
+
+Epoch 30
+Train Loss: 2244.147298
+Val MAE (µm): 2184.1464
+Epoch 00030: reducing learning rate of group 0 to 6.2500e-05.
+
+Epoch 31
+Train Loss: 2241.690694
+Val MAE (µm): 2184.1464
+
+Epoch 32
+Train Loss: 2243.162557
+Val MAE (µm): 2184.1464
+
+Epoch 33
+Train Loss: 2236.336217
+Val MAE (µm): 2184.1464
+
+Epoch 34
+Train Loss: 2235.712494
+Val MAE (µm): 2184.1464
+
+Epoch 35
+Train Loss: 2242.598684
+Val MAE (µm): 2184.1464
+
+Epoch 36
+Train Loss: 2239.836466
+Val MAE (µm): 2184.1464
+Epoch 00036: reducing learning rate of group 0 to 3.1250e-05.
+
+Epoch 37
+Train Loss: 2241.914724
+Val MAE (µm): 2184.1464
+
+Epoch 38
+Train Loss: 2237.760793
+Val MAE (µm): 2184.1464
+
+Epoch 39
+Train Loss: 2240.882640
+Val MAE (µm): 2184.1464
+
+Epoch 40
+Train Loss: 2242.794474
+Val MAE (µm): 2184.1464
+
+Epoch 41
+Train Loss: 2242.035492
+Val MAE (µm): 2184.1464
+
+Epoch 42
+Train Loss: 2237.961070
+Val MAE (µm): 2184.1464
+Epoch 00042: reducing learning rate of group 0 to 1.5625e-05.
+
+Epoch 43
+Train Loss: 2244.208282
+Val MAE (µm): 2184.1464
+
+Epoch 44
+Train Loss: 2239.271932
+Val MAE (µm): 2184.1464
+
+Epoch 45
+Train Loss: 2237.834025
+Val MAE (µm): 2184.1464
+
+Epoch 46
+Train Loss: 2242.091003
+Val MAE (µm): 2184.1464
+
+Epoch 47
+Train Loss: 2242.710042
+Val MAE (µm): 2184.1464
+
+Epoch 48
+Train Loss: 2241.002533
+Val MAE (µm): 2184.1464
+Epoch 00048: reducing learning rate of group 0 to 7.8125e-06.
+
+Epoch 49
+Train Loss: 2240.314809
+Val MAE (µm): 2184.1464
+
+Epoch 50
+Train Loss: 2241.024801
+Val MAE (µm): 2184.1464
+
+Epoch 51
+Train Loss: 2238.421702
+Val MAE (µm): 2184.1464
+
+Epoch 52
+Train Loss: 2239.400533
+Val MAE (µm): 2184.1464
+
+Epoch 53
+Train Loss: 2239.565389
+Val MAE (µm): 2184.1464
+
+Epoch 54
+Train Loss: 2239.783966
+Val MAE (µm): 2184.1464
+Epoch 00054: reducing learning rate of group 0 to 3.9063e-06.
+
+Epoch 55
+Train Loss: 2235.433873
+Val MAE (µm): 2184.1464
+
+Epoch 56
+Train Loss: 2244.517741
+Val MAE (µm): 2184.1464
+
+Epoch 57
+Train Loss: 2238.419078
+Val MAE (µm): 2184.1464
+
+Epoch 58
+Train Loss: 2243.843374
+Val MAE (µm): 2184.1464
+
+Epoch 59
+Train Loss: 2242.113088
+Val MAE (µm): 2184.1464
+
+Epoch 60
+Train Loss: 2242.141215
+Val MAE (µm): 2184.1464
+Epoch 00060: reducing learning rate of group 0 to 1.9531e-06.
+
+Epoch 61
+Train Loss: 2240.339335
+Val MAE (µm): 2184.1464
+
+Epoch 62
+Train Loss: 2240.903870
+Val MAE (µm): 2184.1464
+
+Early stopping triggered.
+Best MAE: 2184.1464 µm
+Training finished.
